@@ -25,7 +25,7 @@ This framework has various folders in the structure
   
   -tests: this folder has all the test cases
   
-    -conftest: this file has the fixtures which can be used mulltiple times
+   -conftest: this file has the fixtures which can be used mulltiple times
     
   -Utilities: We have common methods or functionality in this folder
   
